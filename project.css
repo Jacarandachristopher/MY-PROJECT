@@ -1,0 +1,97 @@
+body{
+  
+    background-color: #EC9918
+}
+.logo{
+    display: flex;
+    margin-left:30px;
+}
+.navbar{
+    padding-left: 120px;
+    font-size: 15px;
+   padding-top: 20px;
+   margin-left: 50px;
+}
+.navbar1{
+    padding-bottom: 1px;
+    margin-left: 1000px;
+}
+.navbar a{
+    margin-right: 20px;
+    color: white
+}
+.navbar a{
+position: relative;
+bottom: 50px;
+left: 50px;
+}
+.logo{
+    position: relative;
+    left: 20px;
+}
+
+.navbar2{
+    position: relative;
+    left: 350px;
+    bottom: 100px;
+}
+.sabi{
+    position: relative;
+    bottom: 450px;
+    left: 450px
+}
+ .we{
+     color: white
+ }
+ .are{
+     color: red
+ }
+ .jaca{
+     font-size:50px;
+     position: relative;
+     bottom: 800px;
+     left: 50px;
+ }
+ .one{
+     
+     font-size: 40px;
+     position: relative;
+     bottom: 200px;
+ }
+ .one{
+     color: white;
+     border: solid white 1px;
+     border-radius: 10px; padding: 5px;
+     font size: 20%;
+     text-align:center;
+     width: 300px;
+ }
+ .deliver{
+     border-left: 5px solid red;
+     color: red;
+     font-size: 100%;
+ }
+ body2{
+   background-color: whitesmoke;  
+ }
+ .ap{
+     color: white
+     border: solid white 2px;
+ }
+ .ap a{
+     border-right: 30px;
+     border: 2px solid #F1F0F0;
+     background-color: #FCFCFC;
+     color:black; 
+     text-align: center;
+     border-radius: 30px;
+     padding-left: 20px;
+     padding-right: 20px;
+     font-size: 20px;
+ }
+ .ap{
+     position: relative;
+     bottom: 740px;
+     left: 900px;
+ }
+ 
